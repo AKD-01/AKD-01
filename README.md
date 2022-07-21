@@ -37,16 +37,16 @@
 
 <br/>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=AKD-01&count_private=true&show_icons=true&theme=dark&hide_border=true&locale=en"
+ <img src="https://github-readme-stats.vercel.app/api?username=AKD-01&count_private=true&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en"
     alt="https://github.com/akd-01" />
 </p>
 <br>
 <p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akd-01&theme=gruvbox_duo" alt="https://github.com/akd-01" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akd-01&count_private=true&theme=gruvbox_duo" alt="https://github.com/akd-01" />
 </p>
 <br/>
 <p align="center" >
 <a href="https://github.com/akd-01/convoychat">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=akd-01&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=akd-01&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
 </a>
  </p>
