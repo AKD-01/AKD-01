@@ -39,4 +39,8 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akd-01&show_icons=true&locale=en" alt="akd-01" /></p>
 <br/>
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKD-01&show_icons=true&theme=dark)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=AKD-01&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/Surbhi-sinha" />
+</p>
+<br>
