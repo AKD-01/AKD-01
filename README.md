@@ -39,5 +39,4 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akd-01&show_icons=true&locale=en" alt="akd-01" /></p>
 <br/>
-[![Anjali's's GitHub stats](https://github-readme-stats.vercel.app/api?username=akd-01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=akd-01)](https://github.com/anuraghazra/github-readme-stats)
