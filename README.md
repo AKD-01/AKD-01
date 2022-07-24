@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [http://anjalikd.me](http://anjalikd.me)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think, I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
