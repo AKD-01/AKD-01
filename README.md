@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akd-01&label=Profile%20views&color=0e75b6&style=flat" alt="akd-01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akd-01" alt="akd-01" /></a> </p>
+<p align="center"> 
+<img style="margin:auto;height:100px; " src="https://media1.giphy.com/media/Qo2dupDib32rkTY4hX/200w.webp?cid=ecf05e47r859888fpmapklgvmwx12r3vxre6e35zn8xroeyq&rid=200w.webp&ct=s"  />
+ </p>
 
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 
