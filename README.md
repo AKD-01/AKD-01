@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 <p align="center"> 
-<img style="margin:auto;height:200px; " src="https://im5.ezgif.com/tmp/ezgif-5-941bde2edf.gif"  />
+
+<img style="margin:auto;height:200px;" src="https://user-images.githubusercontent.com/83454075/180928900-62047562-846b-44eb-a954-2a5489425ded.gif"  />
  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akd-01&label=Profile%20views&color=0e75b6&style=flat" alt="akd-01" /> </p>
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
