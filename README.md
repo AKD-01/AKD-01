@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [http://anjalikd.me/blog.html](http://anjalikd.me/blog.html)
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **anything related to Web Development, C/CPP, React, DSA, Ethical Hacking, Books & Stars.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey-2001**
 
