@@ -49,3 +49,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akd-01&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="akd-01" />
 </p>
+
+[![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)
