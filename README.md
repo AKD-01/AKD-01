@@ -27,10 +27,8 @@
 - ⚡ Fun fact **I think, I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_arcane_me_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="_arcane_me_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akd-anjali-dubey-2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="akd-anjali-dubey-2001" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akd-anjali-dubey-2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_arcane_me_) 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -52,3 +50,6 @@
 </p>
 
 [![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
