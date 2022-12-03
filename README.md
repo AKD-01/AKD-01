@@ -29,6 +29,9 @@
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akd-anjali-dubey-2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_arcane_me_) 
+  <a href="https://leetcode.com/divine_a/">
+  <img width="20px"  style="background-color:white" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png>
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -51,5 +54,3 @@
 
 [![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
