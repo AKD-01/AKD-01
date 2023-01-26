@@ -9,9 +9,8 @@
 <!---
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 --->
-- 🔭 I’m currently working on **MERN Stack.**
 
-- 🌱 I’m currently learning **React, Node, Mongo, and much more..**
+- 🌱 I’m currently working on **MERN Stack.**
 
 - 👯 I’m looking to collaborate on **MERN Projects.**
 
