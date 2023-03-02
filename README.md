@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari Dubey.</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">A passionate Web Developer from India!</h3>
 
 <p align="center"> 
 
@@ -10,13 +10,11 @@
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 --->
 
-- 🌱 I’m currently working on **MERN Stack.**
+- 🌱 I’m currently working on **NodeJs.**
 
 - 👯 I’m looking to collaborate on **MERN Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKD-01](https://github.com/AKD-01)
-
-- 📝 I regularly write articles on [http://anjalikd.me/blog.html](http://anjalikd.me/blog.html)
 
 - 💬 Ask me about anything related to **Web Development, C/CPP, React, DSA, Ethical Hacking, Books & Stars.**
 
