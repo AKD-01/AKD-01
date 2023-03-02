@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akd-anjali-dubey-2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_arcane_me_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akd-anjali-dubey-2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_arcane_me_) 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,5 +50,5 @@
 </p>
 
 
-[![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)
+<!--[![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)-->
 
