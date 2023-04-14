@@ -7,7 +7,7 @@
 --->
   
 <p align="center">
-  <img src="https://akd-01-cuddly-robot-jg64xpjrrvv25rg9-3000.preview.app.github.dev/static/media/intro.0192288047645d3a7ba5.gif" alt="GIF">
+  <img src="https://react-portfolio-v2-umber.vercel.app/static/media/intro.0192288047645d3a7ba5.gif" alt="GIF">
 </p>
 
 </p>
