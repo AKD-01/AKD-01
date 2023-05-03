@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey-2001**
 
-- 📄 Know about my experiences [Portfolio Website](bit.ly/PortfolioWebsite_React)
+- 📄 Know about my experiences [Portfolio Website](https://react-portfolio-v2-akd-01.vercel.app/)
 
 - ⚡ Fun fact **I think, I'm funny.**
 
