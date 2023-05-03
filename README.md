@@ -7,7 +7,7 @@
 --->
   
 <p align="center">
-  <img src="https://react-portfolio-v2-umber.vercel.app/static/media/intro.0192288047645d3a7ba5.gif" alt="GIF">
+  <img src="https://react-portfolio-v2-akd-01.vercel.app/static/media/intro.0192288047645d3a7ba5.gif" alt="GIF">
 </p>
 
 </p>
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey-2001**
 
-- 📄 Know about my experiences [http://anjalikd.me](http://anjalikd.me)
+- 📄 Know about my experiences [Portfolio Website](bit.ly/PortfolioWebsite_React)
 
 - ⚡ Fun fact **I think, I'm funny.**
 
