@@ -16,9 +16,9 @@
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 --->
 
-- 🌱 I’m currently working on **NodeJs.**
+- 🌱 I’m currently working on **PERN.**
 
-- 👯 I’m looking to collaborate on **MERN Projects.**
+- 👯 I’m looking to collaborate on **PERN/MERN Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKD-01](https://github.com/AKD-01)
 
