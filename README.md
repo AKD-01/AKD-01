@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 --->
 
-- 🌱 I’m currently working on **PERN.**
+- 🌱 I’m currently working on **PERN stack.**
 
 - 👯 I’m looking to collaborate on **PERN/MERN Projects.**
 
