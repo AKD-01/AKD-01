@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKD-01](https://github.com/AKD-01)
 
-- 💬 Ask me about anything related to **Web Development, C/CPP, Java, React, Data Structures and Algorithms, and Node.**
+- 💬 Ask me about anything related to **Web Development, C/CPP, Java, ReactJS, Data Structures and Algorithms, and NodeJS.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey-2001**
 
