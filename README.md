@@ -24,7 +24,7 @@
 
 - 💬 Ask me about anything related to **Web Development, C/CPP, Java, ReactJS, Data Structures and Algorithms, and NodeJS.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey-2001**
+- 📫 How to reach me **https://www.linkedin.com/in/akd-anjali-dubey2001**
 
 - 📄 Know about my experiences - [Portfolio Website](https://react-portfolio-v2-akd-01.vercel.app/)
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akd-anjali-dubey-2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_arcane_me_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akd-anjali-dubey2001) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_arcane_me_) 
 
 <h3 align="left">Languages and Tools:</h3>
 
