@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working on **PERN stack.**
 
-- 👯 I’m looking to collaborate on **PERN/MERN Projects.**
+- 👯 I’m looking to collaborate on **PERN/MERN stack Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKD-01](https://github.com/AKD-01)
 
