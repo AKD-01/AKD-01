@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences - [Portfolio Website](https://react-portfolio-v2-akd-01.vercel.app/)
 
-- ⚡ Fun fact **I think, I'm amusing.**
+- ⚡ Fun fact **I think, I am amusing.**
 
 <h3 align="left">Connect with me:</h3>
 
