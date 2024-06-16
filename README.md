@@ -9,14 +9,13 @@
 <p align="center">
   <img src="https://react-portfolio-v2-akd-01.vercel.app/static/media/intro.0192288047645d3a7ba5.gif" alt="GIF">
 </p>
-
+<!---
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akd-01&label=Profile%20views&color=0e75b6&style=flat" alt="akd-01" /> </p>
-<!---
 <p align="left"> <a href="https://twitter.com/_arcane_me_" target="blank"><img src="https://img.shields.io/twitter/follow/_arcane_me_?logo=twitter&style=for-the-badge" alt="_arcane_me_" /></a> </p>
 --->
 
-- 🌱 I’m currently working on **PERN stack.**
+<!---- 🌱 I’m currently working on **PERN stack.**
 
 - 👯 I’m looking to collaborate on **PERN stack Projects.**
 
@@ -28,7 +27,7 @@
 
 - 📄 Know about my experiences - [Portfolio Website](https://react-portfolio-v2-akd-01.vercel.app/)
 
-- ⚡ Fun fact **I think, I am amusing.**
+- ⚡ Fun fact **I think, I am amusing.** --->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -40,7 +39,7 @@
 
 <br/>
 
-<p align="center" >
+<!--<p align="center" >
 <a href="https://github.com/akd-01/convoychat">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=akd-01&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
 </a>
@@ -53,7 +52,7 @@
 <br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akd-01&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="akd-01" />
-</p>
+</p>-->
 
 
 <!--[![@divine01's Holopin board](https://holopin.me/divine01)](https://holopin.io/@divine01)-->
