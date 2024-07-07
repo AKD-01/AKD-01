@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Anjali Dubey.</h1>
-<h3 align="center">A passionate Full Stack Developer from India!</h3>
+<h3 align="center">A passionate Software Engineer from India!</h3>
 
 <p align="center"> 
 <!---
